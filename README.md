@@ -1,7 +1,15 @@
-## Hi there 👋
+## Hello everyone!! 👋
 
 I’m Fleule and welcome to my GitHub Profile!
 
+I’m doing stuff especially in the FNF 
+### Modding Community 
+
+I also learning about coding and source coding. And also learn how to use AI correctly and good.
+
+So that’s it!
+
+### Bye ✌️ 
 <!--
 **Fleule/Fleule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
