@@ -2,8 +2,7 @@
 
 I’m Fleule and welcome to my GitHub Profile!
 
-I’m doing stuff especially in the FNF 
-### Modding Community 
+I’m doing stuff especially in the FNF Modding Community 
 
 I also learning about coding and source coding. And also learn how to use AI correctly and good.
 
